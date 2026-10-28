@@ -1,6 +1,6 @@
 cask "usage-tracker" do
-  version "1.1.0"
-  sha256 "9cac25f8e38f0aea07903df6b11a30fe616f9eb70ee4ab028f81dadc35dc9eeb"
+  version "1.1.1"
+  sha256 "3a809c4c61838a4dbf3aaa4582a97eb9d4ccc749d56e0e5a7323bd589e7417c3"
 
   url "https://github.com/MMSs/usage-tracker/releases/download/v#{version}/Usage-Tracker-#{version}.zip"
   name "Usage Tracker"
